@@ -1,0 +1,1823 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cham",
+				"champions"
+			],
+			[
+				"cha",
+				"champions"
+			],
+			[
+				"champi",
+				"champion_idx"
+			],
+			[
+				"medal",
+				"medalscore"
+			],
+			[
+				"meda",
+				"medal_bronze_2"
+			],
+			[
+				"gold",
+				"gold_medals"
+			],
+			[
+				"bron",
+				"bronze_medals"
+			],
+			[
+				"silver",
+				"silver_medals"
+			],
+			[
+				"over",
+				"overall_obj"
+			],
+			[
+				"gol",
+				"gold_medals"
+			],
+			[
+				"avg",
+				"avgscore_users"
+			],
+			[
+				"last",
+				"last_score"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"revers",
+				"reverseKeyComparator"
+			],
+			[
+				"las",
+				"last5games_users"
+			],
+			[
+				"upda",
+				"updateScoreAggregations"
+			],
+			[
+				"last5ga",
+				"last5games_obj"
+			],
+			[
+				"overall",
+				"overall_score"
+			],
+			[
+				"overa",
+				"overall_score"
+			],
+			[
+				"agg",
+				"aggr_obj"
+			],
+			[
+				"redu",
+				"reduced_val"
+			],
+			[
+				"red",
+				"reduced_val"
+			],
+			[
+				"edit",
+				"edit_html"
+			],
+			[
+				"info",
+				"infomail"
+			],
+			[
+				"send",
+				"send_infomails_timeout"
+			],
+			[
+				"Inf",
+				"InfoMail"
+			],
+			[
+				"Info",
+				"InfoMailSchema"
+			],
+			[
+				"securi",
+				"security_token"
+			],
+			[
+				"security",
+				"security-token"
+			],
+			[
+				"sec",
+				"security_token"
+			],
+			[
+				"popu",
+				"populate_locals"
+			],
+			[
+				"dia",
+				"dialog-form"
+			],
+			[
+				"For",
+				"ForgotPasswordDialog"
+			],
+			[
+				"loginus",
+				"login_user"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"key",
+				"keyComparator"
+			],
+			[
+				"vie",
+				"view_html"
+			],
+			[
+				"login",
+				"login_player"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"normalize_",
+				"normalize_word_german"
+			],
+			[
+				"Mess",
+				"MessageSchema"
+			],
+			[
+				"create",
+				"create_index"
+			],
+			[
+				"finished",
+				"finished_games"
+			],
+			[
+				"new",
+				"new_games"
+			],
+			[
+				"gtpl",
+				"gtpl_config"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"game",
+				"game_score"
+			],
+			[
+				"games",
+				"games_played"
+			],
+			[
+				"resolve",
+				"resolved_games"
+			],
+			[
+				"resolv",
+				"resolved_games"
+			],
+			[
+				"sco",
+				"game_score"
+			],
+			[
+				"Player",
+				"PlayerSchema"
+			],
+			[
+				"Game",
+				"GameSchema"
+			],
+			[
+				"local",
+				"localconfig"
+			],
+			[
+				"pla",
+				"player_bets"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"USer",
+				"UserInfo"
+			],
+			[
+				"Lo",
+				"LoginForm"
+			],
+			[
+				"Content",
+				"Content"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"addC",
+				"addCommentComment"
+			],
+			[
+				"add",
+				"addCommentPerson"
+			],
+			[
+				"editA",
+				"editArticleSubmit"
+			],
+			[
+				"loc",
+				"locals_or_callback"
+			],
+			[
+				"loca",
+				"locals_or_callback"
+			],
+			[
+				"double_kil",
+				"double_kill_flag"
+			],
+			[
+				"player",
+				"player_state"
+			],
+			[
+				"col",
+				"detect_collisions"
+			],
+			[
+				"double",
+				"double_kill_flag"
+			],
+			[
+				"curre",
+				"current_round"
+			],
+			[
+				"esc",
+				"chance_to_escape_seconds"
+			],
+			[
+				"crase",
+				"crashed_into"
+			],
+			[
+				"current",
+				"current_game"
+			],
+			[
+				"init",
+				"init_game_callback"
+			],
+			[
+				"lin",
+				"lineup_countdown1"
+			],
+			[
+				"canvas",
+				"canvas_offset"
+			],
+			[
+				"def",
+				"default_game_params"
+			],
+			[
+				"start",
+				"start_position"
+			],
+			[
+				"calc",
+				"calc_startposition"
+			],
+			[
+				"gam",
+				"game_players"
+			],
+			[
+				"arena",
+				"arena_height"
+			],
+			[
+				"pl",
+				"player_state"
+			],
+			[
+				"play",
+				"player_escapes"
+			],
+			[
+				"player_es",
+				"player_escapes_callback"
+			],
+			[
+				"player_e",
+				"player_escapes_callback"
+			],
+			[
+				"are",
+				"arena_height"
+			],
+			[
+				"ar",
+				"arena_height"
+			],
+			[
+				"aren",
+				"arena_width"
+			],
+			[
+				"ol",
+				"old_posY"
+			],
+			[
+				"roun",
+				"splinter_rounds_left"
+			],
+			[
+				"sp",
+				"splinter_rounds"
+			],
+			[
+				"splin",
+				"splinter"
+			],
+			[
+				"old",
+				"old_posX"
+			],
+			[
+				"spli",
+				"splinter_rounds"
+			],
+			[
+				"splnter",
+				"splinter_rounds"
+			],
+			[
+				"ori",
+				"originX"
+			],
+			[
+				"origi",
+				"originY"
+			],
+			[
+				"dis",
+				"dist_from_origin"
+			],
+			[
+				"splint",
+				"splinter_rounds_left"
+			],
+			[
+				"spl",
+				"splinter_rounds_left"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"ron",
+				"round_ms"
+			],
+			[
+				"ms",
+				"round_ms"
+			],
+			[
+				"dra",
+				"draw_ms"
+			],
+			[
+				"keyc",
+				"keycode_left"
+			],
+			[
+				"ke",
+				"keycode_right"
+			],
+			[
+				"aip",
+				"ai_params2"
+			],
+			[
+				"stat",
+				"player_states"
+			],
+			[
+				"crashed",
+				"crashed_into"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"dr",
+				"draw_scorecard"
+			],
+			[
+				"score",
+				"scoreCard"
+			],
+			[
+				"cra",
+				"crashed_into"
+			],
+			[
+				"di",
+				"distance_to_minimum_chance"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"dist",
+				"dist_obstacle_right"
+			],
+			[
+				"v",
+				"velocity"
+			],
+			[
+				"get",
+				"get_deltas"
+			],
+			[
+				"to_",
+				"to_right"
+			],
+			[
+				"chan",
+				"chance_to_turn"
+			],
+			[
+				"ne",
+				"next_round"
+			],
+			[
+				"p",
+				"p_zero"
+			],
+			[
+				"po",
+				"posY"
+			],
+			[
+				"fil",
+				"fillStyle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/UserShow.gtpl",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/GameShow.gtpl",
+			"settings":
+			{
+				"buffer_size": 4536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 13995,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 907 files for \"game_score\"\n\n/Users/matti/Desktop/zeugs/gameofempathy/Model.js:\n  134  var PlayerSchema = mongoose.Schema({\n  135  	user_id: { type: ObjectId, ref: 'User' },\n  136: 	game_score: Number,\n  137  	bets: [{word:String, score: Number, _id:false}],\n  138  	_id: false \n  ...\n  344  \n  345  	that.players.forEach(function (player) {\n  346: 		player.game_score = player.bets.reduce(function(last,bet) {return last + bet.score;}, 0);\n  347  	});\n  348  \n  349: 	that.players = that.players.sort(reverseKeyComparator('game_score'))\n  350  \n  351  	for (var word in words) {\n  ...\n  373  		User.findByIdAndUpdate(player.user_id, {$inc: {\n  374  			games_played : 1,\n  375: 			overall_score: player.game_score\n  376  		}}).exec(callback);\n  377  	}\n  ...\n  379  	function send_info_mail(player, callback) {\n  380  		var subject = 'Round \"' + that.term + '\" has ended. Check your score!';\n  381: 		var body = 'Du hast sagenhafte ' + player.game_score + ' Punkte erreicht.\\n\\n';\n  382  		body += 'Das Spielergebnis siehst du hier:\\nhttp://gameofempathy.com/game/' + that.id;\n  383  		body += '\\n\\nVielen Dank fürs mitspielen!'\n  ...\n  486  		//emit(this._id, 4);\n  487  		 for(var i = 0; i<this.players.length; ++i) {\n  488: 		 	emit(this.players[i].user_id, {count:1, score: this.players[i].game_score});\n  489  		 };\n  490  	};\n\n6 matches in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "Model.js",
+			"settings":
+			{
+				"buffer_size": 16624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.js",
+			"settings":
+			{
+				"buffer_size": 1484,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/Index.gtpl",
+			"settings":
+			{
+				"buffer_size": 6628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gtpl_cons.js",
+			"settings":
+			{
+				"buffer_size": 2842,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templatehelper.js",
+			"settings":
+			{
+				"buffer_size": 777,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/stylesheets/style.styl",
+			"settings":
+			{
+				"buffer_size": 9405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mailer.js",
+			"settings":
+			{
+				"buffer_size": 1624,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gtpl",
+				"Set Syntax: GTPL"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convt",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matti/Desktop/zeugs/gameofempathy/public/javascripts/client.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/mailer.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/tools.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/Layout.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/app.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/public/stylesheets/style.styl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/Index.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/GameShow.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/config.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/Model.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/mailer/lib/node_mailer.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/MessagesShow.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/package.json",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/passport-local/lib/passport-local/errors/badrequesterror.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/passport-local/lib/passport-local/errors/tokenStrategy.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/passport-local/lib/passport-local/strategy.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/mongoose/lib/model.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/passport/lib/passport/strategy.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/moment/moment.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/GameNew.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/gtpl/lib/gtpl.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/templatehelper.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/todo.txt",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/lib/router/index.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/client.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/email.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/mailer/node_modules/nodemailer/lib/mail.js",
+		"/Users/matti/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/matti/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/matti/Desktop/zeugs/gameofempathy/gtpl_cons.js",
+		"/Users/matti/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/matti/Desktop/zeugs/gameofempathy/helpers.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/jade/node_modules/coffee-script/lib/coffee-script/helpers.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/articleprovider-mongodb.js",
+		"/Users/matti/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/connect/lib/utils.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/UserShow.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/GameUser.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/connect-redis/lib/connect-redis.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/mongoose/lib/connection.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/lib/request.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/fresh/index.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/lib/response.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/passport/lib/passport/index.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/Cleaning",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/lib/application.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/connect/lib/middleware/static.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/lib/express.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/connect/lib/middleware/errorHandler.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/connect/lib/proto.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/connect/lib/public/error.html",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/stylus/lib/middleware.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/send/lib/send.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/lib/router/route.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/node_modules/connect/lib/middleware/methodOverride.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/connect-mongo/Readme.md",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/express/lib/view.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/passport/node_modules/pkginfo/examples/all-properties.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/passport/lib/passport/middleware/authenticate.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/routes/index.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/Login.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/layout.jade",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/test.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/node_modules/gtpl/lib/gtpl_cons.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/layout.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/blog_new.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/blog_show.jade",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/BlogShow.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/views/index.gtpl",
+		"/Users/matti/Desktop/zeugs/gameofempathy/gameofempathy.sublime-workspace",
+		"/Users/matti/Desktop/zeugs/gameofempathy/gameofempathy.sublime-project",
+		"/Users/matti/Desktop/zeugs/GTPL/package.json",
+		"/Users/matti/Desktop/zeugs/gameofempathy/test.js",
+		"/Users/matti/Desktop/zeugs/gameofempathy/articleprovider-memory.js",
+		"/Users/matti/Desktop/zeugs/UltimateTron/package.json",
+		"/Users/matti/Sites/common.css",
+		"/Users/matti/Sites/ultimatetron.html",
+		"/Users/matti/Sites/ultimate_tron.js",
+		"/Users/matti/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.js",
+			"*.gtpl",
+			"*.js",
+			"*.gtpl",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.gtpl",
+			"*.js",
+			"<open folders>, *.js",
+			"<open folders>, *.gtpl",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"normalize_word_german",
+			"diamon",
+			"diamonds",
+			"diamon",
+			"getDiamondAwards",
+			"localS",
+			"setElement",
+			"_ensureElement",
+			"tagName",
+			"sync",
+			"trajan",
+			"	",
+			"johann baptist",
+			"joachim",
+			"johann",
+			"bronze_medals",
+			"left",
+			"hidden",
+			"color ",
+			"gray",
+			"desc",
+			"info",
+			"span",
+			"style=\"z-index: {_p.max_show};\" ",
+			"margin-top -2px",
+			"position",
+			"capture",
+			"span",
+			"{_p.last_position}. ",
+			"16",
+			" style=\"z-index: {_p.max_show};\"",
+			"src",
+			"--",
+			"silver",
+			"gold",
+			"helper",
+			"MedalList",
+			"RedisS",
+			"type Number",
+			"gold",
+			"score",
+			"game_score",
+			"sort",
+			"agg",
+			"user",
+			"</span>",
+			"<span class=\"rank\">",
+			"span",
+			"before",
+			"- <span",
+			"userli",
+			"player.",
+			".title",
+			"usertitle",
+			"title",
+			"game_id",
+			"/game/:",
+			"avgs",
+			"normaliz",
+			"ddd",
+			"dddefa",
+			"w1of4",
+			"biglist",
+			"game",
+			"<h3",
+			"h3",
+			"w1of4",
+			"userlist",
+			"background-color",
+			"#cfb",
+			"background-color",
+			"biglist",
+			"\"games\"",
+			"games",
+			"\"games\"",
+			"games",
+			" class=\"games\"",
+			"last5games_",
+			"keyComparator",
+			"all_users",
+			"sort",
+			"addGames",
+			"user/:",
+			"finished",
+			"noop",
+			"increment",
+			"last5games_aggr[user._id]",
+			"overall_aggr[user._id]",
+			"last5games_aggr",
+			"aggr",
+			"NLastGames",
+			"async.ea",
+			"aggr_obj",
+			"last5",
+			"score",
+			"async",
+			"redu",
+			"desc",
+			"sort",
+			"game_scor",
+			"group",
+			"group_by",
+			"groupby",
+			"sort()",
+			"send_info",
+			"normalize_word_german",
+			"')",
+			"normalize_word_german",
+			":",
+			"param",
+			"passwordField",
+			"usernameField",
+			"bcrypt",
+			"cryp",
+			"bc",
+			"check_logg",
+			"create",
+			"send_info_mails",
+			"Model",
+			"mail",
+			"resolve",
+			"req.mess",
+			"resolve",
+			"input",
+			"Schreib",
+			"Messageboard",
+			"populate_locals",
+			"messages"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getPlayer",
+			"populateGames",
+			"/game"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/UserShow.gtpl",
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GTPL/GTPL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/GameShow.gtpl",
+					"settings":
+					{
+						"buffer_size": 4536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4034,
+								4034
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GTPL/GTPL.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1755.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 13995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7564,
+								7564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3487.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										191,
+										201
+									],
+									[
+										367,
+										377
+									],
+									[
+										533,
+										543
+									],
+									[
+										712,
+										722
+									],
+									[
+										952,
+										962
+									],
+									[
+										1303,
+										1313
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1362,
+								1362
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Model.js",
+					"settings":
+					{
+						"buffer_size": 16624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11204,
+								11204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5848.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config.js",
+					"settings":
+					{
+						"buffer_size": 1484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/Index.gtpl",
+					"settings":
+					{
+						"buffer_size": 6628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4050,
+								4050
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GTPL/GTPL.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 68.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "gtpl_cons.js",
+					"settings":
+					{
+						"buffer_size": 2842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "templatehelper.js",
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/stylesheets/style.styl",
+					"settings":
+					{
+						"buffer_size": 9405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2483,
+								2483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1705.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "mailer.js",
+					"settings":
+					{
+						"buffer_size": 1624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mode",
+				"Model.js"
+			],
+			[
+				"mail",
+				"mailer.js"
+			],
+			[
+				"config",
+				"config.js"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"model",
+				"Model.js"
+			],
+			[
+				"inde",
+				"views/Index.gtpl"
+			],
+			[
+				"styl",
+				"public/stylesheets/style.styl"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"sty",
+				"public/stylesheets/style.styl"
+			],
+			[
+				"in",
+				"views/Index.gtpl"
+			],
+			[
+				"indel",
+				"views/Index.gtpl"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"ind",
+				"views/Index.gtpl"
+			],
+			[
+				"style",
+				"public/stylesheets/style.styl"
+			],
+			[
+				"templa",
+				"templatehelper.js"
+			],
+			[
+				"gtplcon",
+				"gtpl_cons.js"
+			],
+			[
+				"index.gtpl",
+				"views/Index.gtpl"
+			],
+			[
+				"gameshow",
+				"views/GameShow.gtpl"
+			],
+			[
+				"gamesho",
+				"views/GameShow.gtpl"
+			],
+			[
+				"confi",
+				"config.js"
+			],
+			[
+				"con",
+				"config.js"
+			],
+			[
+				"layou",
+				"views/Layout.gtpl"
+			],
+			[
+				"tools",
+				"tools.js"
+			],
+			[
+				"gamesh",
+				"views/GameShow.gtpl"
+			],
+			[
+				"game",
+				"views/GameShow.gtpl"
+			],
+			[
+				"model.js",
+				"Model.js"
+			],
+			[
+				"index.gt",
+				"views/Index.gtpl"
+			],
+			[
+				"games",
+				"views/GameShow.gtpl"
+			],
+			[
+				"usersh",
+				"views/UserShow.gtpl"
+			],
+			[
+				"too",
+				"tools.js"
+			],
+			[
+				"tool",
+				"tools.js"
+			],
+			[
+				"model.",
+				"Model.js"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"mai",
+				"mailer.js"
+			],
+			[
+				"mailer",
+				"node_modules/mailer/lib/node_mailer.js"
+			],
+			[
+				"client",
+				"public/javascripts/client.js"
+			],
+			[
+				"maile",
+				"mailer.js"
+			],
+			[
+				"stra",
+				"node_modules/passport-local/lib/passport-local/strategy.js"
+			],
+			[
+				"mod",
+				"Model.js"
+			],
+			[
+				"badre",
+				"node_modules/passport-local/lib/passport-local/errors/badrequesterror.js"
+			],
+			[
+				"strate",
+				"node_modules/passport/lib/passport/strategy.js"
+			],
+			[
+				"localsta",
+				"node_modules/passport-local/lib/passport-local/strategy.js"
+			],
+			[
+				"mo",
+				"Model.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"mess",
+				"views/MessagesShow.gtpl"
+			],
+			[
+				"lay",
+				"views/Layout.gtpl"
+			],
+			[
+				"layout",
+				"views/Layout.gtpl"
+			],
+			[
+				"todo",
+				"todo.txt"
+			],
+			[
+				"s",
+				"public/stylesheets/style.styl"
+			],
+			[
+				"st",
+				"public/stylesheets/style.styl"
+			],
+			[
+				"la",
+				"views/Layout.gtpl"
+			],
+			[
+				"templte",
+				"templatehelper.js"
+			],
+			[
+				"gam",
+				"views/GameShow.gtpl"
+			],
+			[
+				"gtpl.js",
+				"node_modules/gtpl/lib/gtpl.js"
+			],
+			[
+				"index",
+				"node_modules/express/lib/router/index.js"
+			],
+			[
+				"moment",
+				"node_modules/moment/moment.js"
+			],
+			[
+				"gamenew",
+				"views/GameNew.gtpl"
+			],
+			[
+				"templ",
+				"templatehelper.js"
+			],
+			[
+				"newg",
+				"views/GameNew.gtpl"
+			],
+			[
+				"clie",
+				"public/javascripts/client.js"
+			],
+			[
+				"cli",
+				"public/javascripts/client.js"
+			],
+			[
+				"layo",
+				"views/Layout.gtpl"
+			],
+			[
+				"clien",
+				"public/javascripts/client.js"
+			],
+			[
+				"emai",
+				"email.js"
+			],
+			[
+				"email",
+				"email.js"
+			],
+			[
+				"mailer.js",
+				"node_modules/mailer/lib/node_mailer.js"
+			],
+			[
+				"e",
+				"email.js"
+			],
+			[
+				"conf",
+				"config.js"
+			],
+			[
+				"gtpl",
+				"node_modules/gtpl/lib/gtpl.js"
+			],
+			[
+				"ema",
+				"email.js"
+			],
+			[
+				"config.js",
+				"config.js"
+			],
+			[
+				"t",
+				"todo.txt"
+			],
+			[
+				"indexgtpl",
+				"views/Index.gtpl"
+			],
+			[
+				"gams",
+				"views/GameShow.gtpl"
+			],
+			[
+				"temhe",
+				"templatehelper.js"
+			],
+			[
+				"index.g",
+				"views/Index.gtpl"
+			],
+			[
+				"client.js",
+				"node_modules/express/client.js"
+			],
+			[
+				"template",
+				"templatehelper.js"
+			],
+			[
+				"helper",
+				"helpers.js"
+			],
+			[
+				"hel",
+				"node_modules/jade/node_modules/coffee-script/lib/coffee-script/helpers.js"
+			],
+			[
+				"utils",
+				"node_modules/express/node_modules/connect/lib/utils.js"
+			],
+			[
+				"mongoose",
+				"node_modules/mongoose/lib/model.js"
+			],
+			[
+				"mongoosemod",
+				"node_modules/mongoose/lib/model.js"
+			],
+			[
+				"temp",
+				"templatehelper.js"
+			],
+			[
+				"help",
+				"node_modules/jade/node_modules/coffee-script/lib/coffee-script/helpers.js"
+			],
+			[
+				"show",
+				"views/GameShow.gtpl"
+			],
+			[
+				"connredi",
+				"node_modules/connect-redis/lib/connect-redis.js"
+			],
+			[
+				"redi",
+				"node_modules/connect-redis/lib/connect-redis.js"
+			],
+			[
+				"redis",
+				"node_modules/connect-redis/lib/connect-redis.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"gtpl_cons",
+				"gtpl_cons.js"
+			],
+			[
+				"style.st",
+				"public/stylesheets/style.styl"
+			],
+			[
+				"middle",
+				"node_modules/express/node_modules/connect/lib/middleware/errorHandler.js"
+			],
+			[
+				"static",
+				"node_modules/express/node_modules/connect/lib/middleware/static.js"
+			],
+			[
+				"route",
+				"node_modules/express/lib/router/route.js"
+			],
+			[
+				"auth",
+				"node_modules/express/node_modules/connect/lib/middleware/basicAuth.js"
+			],
+			[
+				"gtplco",
+				"gtpl_cons.js"
+			],
+			[
+				"style.sy",
+				"public/stylesheets/style.styl"
+			],
+			[
+				"indegtpl",
+				"views/Index.gtpl"
+			],
+			[
+				"appli",
+				"node_modules/express/lib/application.js"
+			],
+			[
+				"view.j",
+				"node_modules/express/lib/view.js"
+			],
+			[
+				"ap",
+				"node_modules/passport/node_modules/pkginfo/examples/all-properties.js"
+			],
+			[
+				"error",
+				"node_modules/express/node_modules/connect/lib/middleware/errorHandler.js"
+			],
+			[
+				"index.js",
+				"node_modules/express/lib/router/index.js"
+			],
+			[
+				"pac",
+				"GTPL/package.json"
+			],
+			[
+				"ar",
+				"gameofempathy/articleprovider-mongodb.js"
+			],
+			[
+				"arti",
+				"gameofempathy/articleprovider-memory.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"ht",
+				"UltimateTron/ultimatetron.html"
+			],
+			[
+				"comm",
+				"UltimateTron/common.css"
+			],
+			[
+				"ul",
+				"UltimateTron/ultimate_tron.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true
+}

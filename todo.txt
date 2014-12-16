@@ -1,0 +1,21 @@
+todo
+
++++ populate() weg
++++ game timeout darstellen
++++ bet submit besser machen (ajax?)
++++ toplevel domain
+-++ auto resolver
+-++ bet normalization
+- Deutsch/Englisch
+- facebook connect
+- user profil/einstellungen verbessern
+- game admin verbessern.
+- footer impressum etc.
+- player layout
+- score durchschnitt / summe letzte 5 spiele
+
+
+
+- awards
+- email
+- sublime build†
